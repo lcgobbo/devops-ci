@@ -1,5 +1,5 @@
 name: integration
-run-name:Pipeline de CI
+run-name: Pipeline de CI
 on:
   push:
     branches:
